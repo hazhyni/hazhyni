@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-<h1 align="center"> My Name is Hazhiyah Yumni 👋
+<h1 align="center"> How's your day?
 
 
 ## 🙋‍♂️ About Me
