@@ -1,5 +1,7 @@
 ### Hi there 👋 
 
+![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+
 <h1 align="center"> How's your day?
 
 
