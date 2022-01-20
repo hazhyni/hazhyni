@@ -34,3 +34,5 @@
   
   ## Stats
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazhyni&layout=compact)]
+  
+  <p align="right"> ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c) </p>
