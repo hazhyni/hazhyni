@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
   
-  Greetings, my name is Hazhiyah Yumni. I started from my curiosity about how to create and use an application for everyone needs. I also continue training related to website development and presently learning about android development. I am currently studying with a degree in Information Systems at Malikussaleh University. I would love to analyzing system requirements from several references into something that more structured.
+  Greetings, my name is **__Hazhiyah Yumni__**. I started from my curiosity about how to create and use an application for everyone needs. I also continue training related to website development and presently learning about android development. I am currently studying with a degree in Information Systems at Malikussaleh University. I would love to analyzing system requirements from several references into something that more structured.
   
 ## 🪐 Language and Tools
   *Language*
