@@ -1,7 +1,5 @@
 ### Hi there 👋 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
-
 <h1 align="center"> How's your day?
 
 
@@ -35,4 +33,8 @@
   </p>
   
   ## Stats
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazhyni&layout=compact)](https://github.com/hazhyni/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazhyni&layout=compact)](https://github.com/hazhyni/github-readme-stats
+  
+  <p align="right">
+  ![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
+  </p>
