@@ -1,16 +1,10 @@
-### Hi there 👋
-
-
-**hazhyni/hazhyni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Malikussaleh University
+- 🔭 I’m currently study on Malikussaleh University
 - 🌱 I’m currently learning Website and Android Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: hazhiyahy4@gmail.com
+- 📫 How to reach me: [Email] hazhiyahy4@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
