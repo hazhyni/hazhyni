@@ -19,4 +19,4 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://laravel.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/laravel.png"/> </a> 
     <a href="https://codeigniter.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/codeigniter.png"/> </a> 
-  </p
+  </p>
