@@ -23,3 +23,10 @@
     <a href="https://laravel.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
     <a href="https://codeigniter.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png"/> </a>
   </p>
+  
+  *Tools*
+  <a href="https://code.visualstudio.com" target"_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a>
+  <a href="https://developer.android.com/studio" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/> </a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> </a>
+  <a href="https://www.figma.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a>
+  
