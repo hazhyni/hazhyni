@@ -21,5 +21,5 @@
   <p align="left"> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://laravel.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
-    <a href="https://codeigniter.com" target="_blank"><a href="https://icons8.com/icon/i18Aj6YAMGuM/codeigniter-is-an-open-source-software-rapid-development-web-framework">CodeIgniter is an open-source software rapid development web framework icon by Icons8</a> </a>
+    <a href="https://codeigniter.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png"/> </a>
   </p>
