@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=ff69b4)
 
 <h1 align="center"> How's your day?
 
