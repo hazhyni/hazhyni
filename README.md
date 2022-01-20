@@ -32,3 +32,4 @@
   <a href="https://www.figma.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/> </a>
   </p>
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazhyni&layout=compact)](https://github.com/hazhyni/github-readme-stats)
