@@ -1,6 +1,6 @@
 <h1>Hi there 👋,</h1>
 
-# 💫 About Me:
+# 💫 About Me
 Hello, I’m Hazhiyah Yumni, a tech enthusiast with expertise in software development, data analysis, and systems integration. I specialize in statistical analysis, predictive modeling, and crafting data-driven solutions. My experience includes developing mobile and web applications, designing user-focused systems, and delivering structured solutions tailored to business needs. I thrive on solving complex problems and transforming user requirements into impactful outcomes.
 
 ## ✨ Projects
