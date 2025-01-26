@@ -1,30 +1,56 @@
-### Hi there 👋 
+# Hi there 👋
 
-<h1 align="center"> How's your day?
+## About Me
+Greetings, my name is Hazhiyah Yumni. My journey began with a deep curiosity about creating and using applications that cater to various needs. Over time, I have honed my skills through continuous training in website development and am currently expanding my expertise in Android development. Presently, I am pursuing a degree in Information Systems at Malikussaleh University. I enjoy analyzing system requirements from diverse references and transforming them into well-structured solutions.
 
+---
 
-## 🙋 About Me
-  
-  Greetings, my name is **__Hazhiyah Yumni__**. I started from my curiosity about how to create and use an application for everyone needs. I also continue training related to website development and presently learning about android development. I am currently studying with a degree in Information Systems at Malikussaleh University. I would love to analyzing system requirements from several references into something that more structured.
-  
-## 🪐 Language and Tools
-  *Language*
-  <p align="left"> 
-    <a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/color/48/000000/php.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-  </p>
-  
-  *Framework*
-  <p align="left"> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://laravel.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> </a>
-    <a href="https://flutter.dev" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/flutter.png"/> </a>
-    <a href="https://codeigniter.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-codeigniter-is-an-open-source-software-rapid-development-web-framework-logo-color-tal-revivo.png"/> </a>
-  </p>
-  
- ![](https://komarev.com/ghpvc/?username=your-github-username&color=dc143c)
+## 🔄 Language and Tools
+### Languages:
+- Python
+- Java
+- JavaScript
+- SQL
+
+### Frameworks and Libraries:
+- TensorFlow
+- Flutter
+- React.js
+
+### Tools:
+- Git & GitHub
+- Android Studio
+- Visual Studio Code
+
+---
+
+## ✨ Projects
+### 1. [Personal Portfolio Website](https://hazhyni.github.io)
+A showcase of my projects, skills, and certifications.
+
+### 2. Android Development Project
+Currently developing a mobile application to simplify task management for small teams.
+
+### 3. Data Analysis with Python
+Utilized Pandas, Seaborn, and Matplotlib for insights from e-commerce datasets.
+
+---
+
+## 🏆 Achievements
+- **Dicoding Certified**: Completed multiple courses on Android and web development.
+- **Top Contributor**: Recognized as a valuable contributor in university-level hackathons.
+- **Published Research**: Co-authored a research paper on the impact of information systems in education.
+- **Volunteer Mentor**: Guided beginner programmers in understanding website and mobile app development.
+
+---
+
+## 📊 GitHub Stats & Widgets
+![Hazhiyah's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazhyni&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hazhyni&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/hazhiyah/)
+- [GitHub](https://github.com/hazhyni)
