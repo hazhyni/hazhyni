@@ -52,24 +52,6 @@
 <a target="_blank" href="https://www.instagram.com/lissylifeintech" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hazhyni" alt="hazhyni" /></a></p>
 
-
-## 🔄 Language and Tools
-### Languages:
-- Python
-- Java
-- JavaScript
-- SQL
-
-### Frameworks and Libraries:
-- TensorFlow
-- Flutter
-- React.js
-
-### Tools:
-- Git & GitHub
-- Android Studio
-- Visual Studio Code
-
 ---
 
 ## ✨ Projects
@@ -103,4 +85,3 @@ Utilized Pandas, Seaborn, and Matplotlib for insights from e-commerce datasets.
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/hazhiyah/)
 - [GitHub](https://github.com/hazhyni)
-- Email: hazhiyah.yumni@gmail.com
