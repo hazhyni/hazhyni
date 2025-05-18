@@ -40,7 +40,7 @@ Utilized Pandas, Seaborn, and Matplotlib for insights from e-commerce datasets.
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=hazhyni&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=hazhyni&theme=dark_lover&no-frame=true&no-bg=false&margin-w=4&rank=-C,-B&title=MultiLanguage,Experience,Repositories,Commits)
 
 ## 💻 Tech Stack:
 
@@ -48,8 +48,8 @@ Utilized Pandas, Seaborn, and Matplotlib for insights from e-commerce datasets.
 
 ## 📊 GitHub Stats:
 
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=hazhyni&theme=neon&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=hazhyni&theme=neon&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
+    <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=hazhyni&theme=neon&hide_border=true)<br/>
+    ![](https://github-readme-stats.vercel.app/api?username=hazhyni&theme=neon&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hazhyni&theme=neon&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
