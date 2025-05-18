@@ -40,7 +40,7 @@ Utilized Pandas, Seaborn, and Matplotlib for insights from e-commerce datasets.
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=hazhyni&theme=dark_lover&no-frame=true&no-bg=false&margin-w=4&rank=-C,-B)
+![](https://github-profile-trophy.vercel.app/?username=hazhyni&theme=dark_lover&no-frame=true&no-bg=false&margin-w=4&rank=-C,-B,?)
 
 ## 💻 Tech Stack:
 
