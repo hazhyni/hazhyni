@@ -31,8 +31,11 @@ Currently developing a mobile application to simplify task management for small 
 ### 3. [Data Analysis with Python](https://yumni-data-analysis-ecom.streamlit.app/)
 
 Utilized Pandas, Seaborn, and Matplotlib for insights from e-commerce datasets.
+
 [Brazilian E-commerce Data Analysis](https://github.com/hazhyni/ecom-data-analysis)
+
 [Umma Sentiment Analysis](https://github.com/hazhyni/umma-sentiment-analysis)
+
 ---
 
 ## 🏆 Achievements
