@@ -34,8 +34,11 @@ Utilized Pandas, Seaborn, and Matplotlib for insights from e-commerce datasets.
 
 [Brazilian E-commerce Data Analysis](https://github.com/hazhyni/ecom-data-analysis)
 
-[Umma Sentiment Analysis](https://github.com/hazhyni/umma-sentiment-analysis)
+[Sentiment Analysis on Umma App Reviews - Google Play Store](https://github.com/hazhyni/umma-sentiment-analysis)
 
+[Sentiment Analysis on X App Reviews – Google Play Store](https://github.com/hazhyni/x-sentiment-analysis)
+
+[
 ---
 
 ## 🏆 Achievements
