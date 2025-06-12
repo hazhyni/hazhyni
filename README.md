@@ -28,7 +28,7 @@ A showcase of my projects, skills, and certifications. [Preview](https://yumnipr
 
 Currently developing a mobile application to simplify task management for small teams.
 
-### 3. [Data Analysis with Python](https://yumni-data-analysis-ecom.streamlit.app/)
+### 3. [Data Analysis with Python]([https://yumni-data-analysis-ecom.streamlit.app/](https://bit.ly/4dYcAdy))
 
 Utilized Pandas, Seaborn, and Matplotlib for insights from e-commerce datasets.
 
