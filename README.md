@@ -22,21 +22,15 @@ Hello, I’m Hazhiyah Yumni, a tech enthusiast with expertise in software develo
 
 ### 1. [Personal Portfolio Website](https://hazhyni.github.io)
 
-A showcase of my projects, skills, and certifications. [Preview](https://yumniprojects.carrd.co/)
-
 ### 2. Android Development Project
 
-Currently developing a mobile application to simplify task management for small teams.
+### 3. Data Analysis with Python
 
-### 3. [Data Analysis with Python](https://bit.ly/4dYcAdy)
+[Brazilian E-commerce Data Analysis](https://github.com/hazhyni/06-ecom-data-analysis)
 
-Utilized Pandas, Seaborn, and Matplotlib for insights from e-commerce datasets.
+[Sentiment Analysis on Umma App Reviews - Google Play Store](https://github.com/hazhyni/05-umma-sentiment-analysis)
 
-[Brazilian E-commerce Data Analysis](https://github.com/hazhyni/ecom-data-analysis)
-
-[Sentiment Analysis on Umma App Reviews - Google Play Store](https://github.com/hazhyni/umma-sentiment-analysis)
-
-[Sentiment Analysis on X App Reviews – Google Play Store](https://github.com/hazhyni/x-sentiment-analysis)
+[Sentiment Analysis on X App Reviews – Google Play Store](https://github.com/hazhyni/04-x-app-sentiment-analysis)
 
 ### 4. Other
 [Asma’ al-Ḥusnā: The 99 Names of Allah](https://99-asmaul-husna.vercel.app/)
@@ -67,3 +61,6 @@ Utilized Pandas, Seaborn, and Matplotlib for insights from e-commerce datasets.
 ## 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hazhiyah)
+[![Carrd](https://img.shields.io/badge/Carrd-000000.svg?logo=carrd&logoColor=white)](https://yumniprojects.carrd.co/)
+[![Linktree](https://img.shields.io/badge/Linktree-39E09B.svg?logo=linktree&logoColor=white)](https://linktr.ee/hazhiyahy)
+
