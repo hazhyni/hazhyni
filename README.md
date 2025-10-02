@@ -38,6 +38,9 @@ Utilized Pandas, Seaborn, and Matplotlib for insights from e-commerce datasets.
 
 [Sentiment Analysis on X App Reviews – Google Play Store](https://github.com/hazhyni/x-sentiment-analysis)
 
+### 4. Other
+[Asma’ al-Ḥusnā: The 99 Names of Allah](https://99-asmaul-husna.vercel.app/)
+
 ---
 
 ## 🏆 Achievements
